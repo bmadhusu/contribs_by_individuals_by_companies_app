@@ -3,13 +3,12 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version is 2.0.0 on Rails 4.0.5
 
 * System dependencies
 
-* Configuration
+
+Uses dynamically generated secret token so don't try & hack me!
 
 * Database creation
 
